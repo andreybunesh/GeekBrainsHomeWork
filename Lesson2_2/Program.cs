@@ -70,6 +70,9 @@ namespace Lesson2_2
                         System.Console.WriteLine("This is December");
                         break;
                     }
+                default:
+                    Console.WriteLine("You should enter number from 1 to 12");
+                    break;
             }
         }
     }
