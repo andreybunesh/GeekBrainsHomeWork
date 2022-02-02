@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lessons2_3", "Lessons2_3\Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lessons2_4", "Lessons2_4\Lessons2_4.csproj", "{B29CD7E4-616E-4D3C-8B2A-95DDAC4CEDFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons2_5", "..\..\..\Desktop\repo-homework\GeekBrainsHomeWork\Lessons2_5\Lessons2_5.csproj", "{AB787A60-DECF-479F-AF88-E61D53F3BDB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons2_5", "Lessons2_5\Lessons2_5.csproj", "{AB787A60-DECF-479F-AF88-E61D53F3BDB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons2_6", "..\..\..\Desktop\repo-homework\GeekBrainsHomeWork\Lessons2_6\Lessons2_6.csproj", "{22EF7942-2272-4253-9DE0-C5EC421C56D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons2_6", "Lessons2_6\Lessons2_6.csproj", "{22EF7942-2272-4253-9DE0-C5EC421C56D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
