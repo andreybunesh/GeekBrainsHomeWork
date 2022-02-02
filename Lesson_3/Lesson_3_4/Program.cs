@@ -6,18 +6,31 @@ namespace Lesson_3_4
     {
         static void Main(string[] args)
         {
-            char[,] NewArray = new char[,]
+            char[,] Sea​Battle = new char[,]
        {
-               {'O','O','O','O','O','O','O',8,4},
-               {3,34,54,75,56,3,12,37,67},
-               {7,9,46,1,2,5,97,34,12},
-               {5,4,6,31,45,51,90,1,5},
-               {6,30,71,3,8,6,15,78,3},
-               {3,94,54,75,56,3,12,37,67},
-               {2,45,24,34,45,12,6,8,4},
-               {7,9,43,1,2,5,97,34,12},
-               {6,30,71,3,8,6,15,78,3}
+                    {'O','X','O','O','O','O','O','X','X','O'},
+                    {'O','O','O','X','O','O','O','O','O','X'},
+                    {'O','O','O','O','O','X','X','X','O','X'},
+                    {'O','X','O','O','O','O','O','O','O','X'},
+                    {'O','O','O','O','O','O','O','O','O','O'},
+                    {'X','O','X','X','X','O','O','O','O','O'},
+                    {'O','O','O','O','O','O','O','X','O','O'},
+                    {'O','O','O','O','O','O','O','X','O','O'},
+                    {'O','X','O','O','O','O','O','X','O','O'},
+                    {'O','X','O','X','X','O','O','X','O','O'},
+
        };
+            int height = Sea​Battle.GetLength(0);
+            int weight = Sea​Battle.GetLength(1);
+
+            for (var i = 0; i < height; i++)
+            {
+                for (int j = 0; j < weight; j++)
+                {
+                    Console.Write(Sea​Battle[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

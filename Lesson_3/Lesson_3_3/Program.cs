@@ -6,7 +6,7 @@ namespace Lesson_3_3
     {
         static void Main(string[] args)
         {
-            string str = "Hello";
+            string str = "Good Morning";
 
             for (int i = str.Length - 1; i >= 0; i--)
             {

@@ -21,25 +21,16 @@ namespace Lesson_3_1
 
             int height = NewArray.GetLength(0);
             int weight = NewArray.GetLength(1);
-            var x = '-';
-            //int i = 0;
-            //int j = 0;
 
-            //while (i < height && j < weight)
-            //{
-            //    Console.WriteLine($"{NewArray[i, j]}");
-            //    i++;
-            //    j++;
+            Console.WriteLine("Now you can see diagonal  Мой тестовый пример");
+              
             for (var i = 0; i< height; i++)
             {
                 for (int j = 0; j < weight; j++)
                 {
                     if (i == j)
                     {
-                        //var x = NewArray[i-1, j-1].ToString().Length;
-                        // var y = NewArray[i + 1, j + 1].ToString().Length;
-                        //Console.WriteLine($"{NewArray[i, j].ToString().PadLeft(2i+1,'.')}");
-                        Console.WriteLine($"{new String(' ', 3*i)}{NewArray[i, j]}");
+                       Console.WriteLine($"{new String(' ', 3*i)}{NewArray[i, j]}");
                     }
                 }
             }
@@ -48,4 +39,3 @@ namespace Lesson_3_1
         }
     }
 }
-//str.PadLeft(15)
