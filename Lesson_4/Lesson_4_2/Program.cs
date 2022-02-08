@@ -32,8 +32,7 @@ namespace Lesson_4_2
                 {
                     sum += Convert.ToInt32(newLine.ToString());
                     newLine = string.Empty;
-                }
-                                      
+                }                
             }
             Console.WriteLine(sum);
             

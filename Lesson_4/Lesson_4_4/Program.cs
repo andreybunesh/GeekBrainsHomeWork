@@ -11,7 +11,6 @@ namespace Lesson_4_4
         {
             Console.WriteLine("Hello, Enter the number N of the element to be determined");
             int f = Convert.ToInt32(Console.ReadLine());
-
             Console.WriteLine($"Number of Fibonachy: {GetFibbonachy(f)}");
         }
         public static int GetFibbonachy(int n)

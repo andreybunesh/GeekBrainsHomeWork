@@ -23,7 +23,7 @@ namespace Lesson_4_3
         {
             Console.WriteLine("Enter number of month");
             int monthNumber = Convert.ToInt32(Console.ReadLine());
-            if (monthNumber>12 || monthNumber<1)
+            if (monthNumber > 12 || monthNumber < 1)
             {
                 System.Console.WriteLine("Error: Please enter a number between 1 and 12");
                 return;

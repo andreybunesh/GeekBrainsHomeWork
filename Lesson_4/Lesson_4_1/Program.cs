@@ -36,7 +36,7 @@ namespace Lesson_4_1
         static string GetFullName(string firstName, string lastName, string patronymic)
         {
             Console.WriteLine($"{lastName} {firstName} {patronymic}");
-            return "SUCCESS";
+            return string.Empty;
         }
     }
 }
