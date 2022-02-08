@@ -9,10 +9,6 @@ namespace Lesson_4_1
             ////string firstName = Console.ReadLine();
             ////string lastName = Console.ReadLine();
             //string patronymic = Console.ReadLine();
-            //string firstName1 = "Andrey";
-            //string lastName1 = "Bunesh";
-            //string patronymic1 = "Igorevich";
-            //string patronymic = Console.ReadLine();
             string firstName1 = "Andrey";
             string lastName1 = "Bunesh";
             string patronymic1 = "Igorevich";
