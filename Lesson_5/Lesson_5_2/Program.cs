@@ -10,7 +10,6 @@ namespace Lesson_5_2
         {
             string fileName = "C:\\Users\\AndreyBunesh\\Desktop\\repo-homework\\GeekBrainsHomeWork\\Lesson_5\\Lesson_5_2\\startup.txt";
             File.AppendAllText(fileName, DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss"));
-            //Console.WriteLine("Hello World!");
         }
     }
 }
