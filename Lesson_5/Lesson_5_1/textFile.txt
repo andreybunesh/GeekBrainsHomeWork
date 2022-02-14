@@ -1,0 +1,154 @@
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5.sln
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\.vs
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\.vs\Lesson_5
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\.vs\Lesson_5\v16
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\.vs\Lesson_5\v16\.suo
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\Lessons_5_3.csproj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\Program.cs
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Binar.bin
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.deps.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.pdb
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.runtimeconfig.dev.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\Lessons_5_3.runtimeconfig.json
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\bin\Debug\net5.0\ref\Lessons_5_3.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Lessons_5_3.csproj.nuget.dgspec.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Lessons_5_3.csproj.nuget.g.props
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Lessons_5_3.csproj.nuget.g.targets
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\project.assets.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\project.nuget.cache
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\apphost.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.AssemblyInfo.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.AssemblyInfoInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.assets.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.csproj.AssemblyReference.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.csproj.CoreCompileInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.csproj.FileListAbsolute.txt
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.GeneratedMSBuildEditorConfig.editorconfig
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.genruntimeconfig.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\Lessons_5_3.pdb
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_3\obj\Debug\net5.0\ref\Lessons_5_3.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\Lessons_5_4.csproj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\Program.cs
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.deps.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.pdb
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.runtimeconfig.dev.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\Lessons_5_4.runtimeconfig.json
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\bin\Debug\net5.0\ref\Lessons_5_4.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Lessons_5_4.csproj.nuget.dgspec.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Lessons_5_4.csproj.nuget.g.props
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Lessons_5_4.csproj.nuget.g.targets
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\project.assets.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\project.nuget.cache
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\apphost.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.AssemblyInfo.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.AssemblyInfoInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.assets.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.csproj.AssemblyReference.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.csproj.CoreCompileInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.csproj.FileListAbsolute.txt
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.GeneratedMSBuildEditorConfig.editorconfig
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.genruntimeconfig.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\Lessons_5_4.pdb
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lessons_5_4\obj\Debug\net5.0\ref\Lessons_5_4.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\Lesson_5_1.csproj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\Program.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\textFile.txt
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.deps.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.pdb
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.runtimeconfig.dev.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\Lesson_5_1.runtimeconfig.json
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\bin\Debug\net5.0\ref\Lesson_5_1.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Lesson_5_1.csproj.nuget.dgspec.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Lesson_5_1.csproj.nuget.g.props
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Lesson_5_1.csproj.nuget.g.targets
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\project.assets.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\project.nuget.cache
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\apphost.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.AssemblyInfo.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.AssemblyInfoInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.assets.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.csproj.AssemblyReference.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.csproj.CoreCompileInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.csproj.FileListAbsolute.txt
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.GeneratedMSBuildEditorConfig.editorconfig
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.genruntimeconfig.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\Lesson_5_1.pdb
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_1\obj\Debug\net5.0\ref\Lesson_5_1.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\Lesson_5_2.csproj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\Program.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\startup.txt
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.deps.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.pdb
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.runtimeconfig.dev.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\Lesson_5_2.runtimeconfig.json
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\bin\Debug\net5.0\ref\Lesson_5_2.dll
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Lesson_5_2.csproj.nuget.dgspec.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Lesson_5_2.csproj.nuget.g.props
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Lesson_5_2.csproj.nuget.g.targets
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\project.assets.json
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\project.nuget.cache
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\apphost.exe
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.AssemblyInfo.cs
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.AssemblyInfoInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.assets.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.csproj.AssemblyReference.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.csproj.CoreCompileInputs.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.csproj.FileListAbsolute.txt
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.dll
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.GeneratedMSBuildEditorConfig.editorconfig
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.genruntimeconfig.cache
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\Lesson_5_2.pdb
+Dirrectory: C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\ref
+File : C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lesson_5\Lesson_5_2\obj\Debug\net5.0\ref\Lesson_5_2.dll
