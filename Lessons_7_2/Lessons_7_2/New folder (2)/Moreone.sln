@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Moreone", "Moreone.exe", "{97297F6F-E970-4683-9ABF-B75C276ECC1F}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lessons_7_2\Lessons_7_2\bin\Debug\Moreone.exe
+		RemoteMachine = MSQ-NBW-7486
+		StartingDirectory = C:\Users\AndreyBunesh\Desktop\repo-homework\GeekBrainsHomeWork\Lessons_7_2\Lessons_7_2\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97297F6F-E970-4683-9ABF-B75C276ECC1F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F1298C-A3C1-4079-9872-75599ED9BDAF}
+	EndGlobalSection
+EndGlobal
